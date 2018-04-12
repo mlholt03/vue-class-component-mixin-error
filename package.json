@@ -1,0 +1,25 @@
+{
+    "name": "vue-class-component-mixin-error",
+    "version": "0.0.1",
+    "description": "Package for an error with vue-class-component mixins",
+    "main": "main.js",
+    "types": "main.d.ts",
+    "scripts": {
+      "tsc": "tsc"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "typescript": "2.6.1"
+    },
+    "dependencies": {
+      "vue": "2.5.3",
+      "vue-good-table": "^1.20.0",
+      "vue-loader": "11.3.4",
+      "vue-property-decorator": "6.0.0",
+      "vue-router": "3.0.1",
+      "vue-template-compiler": "2.5.3",
+      "vuex": "3.0.1"
+    }
+  }
+  
